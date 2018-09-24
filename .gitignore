@@ -3,3 +3,5 @@ CMakeFiles
 bench
 bench.exe
 *.o
+Makefile
+cmake_install.cmake

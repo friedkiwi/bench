@@ -61,6 +61,7 @@ void print_comparison_results() {
 	printf("(less is better)\n");
 	printf("* MacBookPro13,2  - 2.9GHz i5 - pass:5 min: 11723.954000 max: 12397.721000 avg: 12036.680800\n");
 	printf("* Power7 AIX LPAR             - pass:5 min: 37090.000000 max: 37200.000000 avg: 37126.000000\n");
+	printf("* PowerMac G5 Dual 2.0        - pass:5 min: 49317.132608 max: 49364.092384 avg: 49328.874502\n");
 }
 
 int main() {
